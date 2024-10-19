@@ -1,2 +1,2 @@
-# olahlagi-apps
-Pengembangan aplikasi mobile Olahlagi
+# olahlagi-web
+Pengembangan aplikasi web Olahlagi
